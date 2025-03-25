@@ -16,6 +16,12 @@ I'm Terrystan Sustal, a student at Brigham Young University-Idaho interested in 
 - Proficient in: HTML, CSS, JavaScript, React, Python, C#
 - Skills: Collaboration, communication, problem solving
 
+## Projects
+
+- Hotel System Next.js: https://github.com/narah10/Hotel-Transylvannia-Booking-System
+- Recipe Management C#: https://github.com/terrystansustal/recipe-management.git
+- Ecommerce Website: https://github.com/terrystansustal/wdd330-final
+
 ## Let's Connect!
 
 - Here is my LinkedIn: https://www.linkedin.com/in/terrystansustal/
